@@ -1,4 +1,4 @@
-<image src = "https://user-images.githubusercontent.com/93303277/139376239-c2dbc5d0-1c6a-4bfd-997d-92f656c6f10b.png" width="100" height="100">
+<image src = https://media.discordapp.net/attachments/884703572682502164/910356595228172338/TG.jpg>
 
 # DISCORD-RESOURCES---Team-TG
 
@@ -32,7 +32,7 @@ Official Discord: [Join Now!](https://discord.gg/w2Yb4wmfeN)
 
 Contact Us: tgofficial039@gmail.com
 
-Website: Coming soon!
+Website: [Click Here](https://tgnetofficial.wixsite.com/about-tgnet)!
 
 Game Store: Coming soon!
 
