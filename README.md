@@ -36,4 +36,4 @@ Website: [Click Here](https://tgnetofficial.wixsite.com/about-tgnet)!
 
 Game Store: Coming soon!
 
-TG Network Discord: [Join Now!](https://discord.gg/RyJm7zs5ST)
+TG Net Discord: [Join Now!](https://discord.gg/RyJm7zs5ST)
