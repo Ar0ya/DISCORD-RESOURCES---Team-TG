@@ -11,7 +11,7 @@ Youtube:
 [Truzo Gamerz](https://www.youtube.com/channel/UCagpPnlrEPfYVRibU1GOi5w/featured)
 
 
-Twitter: [@@TG23437982](https://twitter.com/TG23437982)
+Twitter: [@TG23437982](https://twitter.com/TG23437982)
 
 
 Instagram:
